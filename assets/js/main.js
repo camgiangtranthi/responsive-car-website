@@ -125,3 +125,5 @@ sr.reveal(`.about__group, .offer__data`, {origin: 'left'})
 sr.reveal(`.about__data, .offer__img`, {origin: 'right'})
 sr.reveal(`.features__card`, {interval: 300})
 sr.reveal(`.featured__card, .logos__content`, {interval: 100})
+sr.reveal(`.featured__card, .logos__content`, {interval: 100})
+
